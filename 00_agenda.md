@@ -21,3 +21,8 @@
     - Eigenschaften von Sprint
     - Sprint Ablauf
 6. Schlusswort
+
+
+[a relative link](01_why-scrum.md)
+
+![Sprint Schema](01_why-scrum.jpg)
