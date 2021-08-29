@@ -15,4 +15,6 @@ Steakholder Aufgaben:
 - An Reviews Teilnehmen
 - Feedback geben
 
+![scrum roles](https://www.mendix.com/wp-content/uploads/scrum-team-de.png)
+
 [weiter ->](07-1_coffee.md)

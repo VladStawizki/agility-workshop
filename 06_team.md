@@ -2,6 +2,8 @@
 
 Das Team führt alle Arbeiten аus, die zur Umsetzung der Anforderungen notwendig sind.
 
+![scrum team](https://cdn.zsite.net/us1/upload/201907/f_a659c88226891028ce7be90e36156e20.png)
+
 ## Teameigenschaften:
 
 - Bevollmächtigt
