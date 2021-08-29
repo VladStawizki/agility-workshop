@@ -14,4 +14,6 @@
 
 - Eine Liste mit Eigenschaften, die das fertige Produkt / gewünschte Resultat beschreiben
 - Sehr genaue und präzise angaben
-- Kann zusammen mit den Entwicklern/Team erarbeitet werden 
+- Kann zusammen mit den Entwicklern/Team erarbeitet werden #
+
+[weiter ->](12-1_launch.md)

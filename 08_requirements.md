@@ -9,3 +9,5 @@
 - Gute Anforderungen
 
 - Userstories
+
+[weiter ->](09_classic.md)

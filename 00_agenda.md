@@ -23,6 +23,4 @@
 6. Schlusswort
 
 
-[a relative link](01_why-scrum.md)
-
-![Sprint Schema](01_why-scrum.jpg)
+[weiter ->](01_why-scrum.md)

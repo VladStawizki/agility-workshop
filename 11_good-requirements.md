@@ -11,3 +11,5 @@ Bad:
 - Mein eingestellter Filter soll in Cookies gespeichert werden!
 
 Wenn die Anforderungen nicht klar definierbar sind, kann ein Workshop mit Stakeholdern helfen, um die Anfordeungen klar und deutlich für beide Parteien zu definieren
+
+[weiter ->](12_userstories.md)

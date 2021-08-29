@@ -12,3 +12,5 @@ Product Backlog ist eine ultimative To-Do Liste
 - Am Ende vom Backlog stehen Grobe Ideen und Nice To Have Features
 - Die Reihenfolge der Einträge gibt eine Übersicht wie lange es dauern wird um features Fertig zu stellen
 - Möglichst alle Einträge sind vom Team abgeschätzt
+
+[weiter ->](11_good-requirements.md)

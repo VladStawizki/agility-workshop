@@ -14,3 +14,5 @@ Steakholder Aufgaben:
 - Ziele/Anforderungen definieren
 - An Reviews Teilnehmen
 - Feedback geben
+
+[weiter ->](07-1_coffee.md)

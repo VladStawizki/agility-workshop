@@ -1,4 +1,4 @@
-# Was ist eigentlich Scrum
+# Was ist eigentlich Scrum?
 
 ## Eigenschaften von Scrum
 
@@ -7,3 +7,5 @@
 - Maximale Transparenz
 - Kontinuierliche Verbesserung/Entwicklung
 - Harte Arbeit!
+
+[weiter ->](03_what-is-scrum-not.md)

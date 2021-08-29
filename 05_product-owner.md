@@ -10,3 +10,5 @@ Aufgaben von Product Owner:
 - Stakeholder-Management
 
 Achtung! Product Owner ist kein Vorgesetzter und kein Teamleiter!
+
+[weiter ->](06_team.md)

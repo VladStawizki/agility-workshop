@@ -50,3 +50,5 @@ Die Mitglieder entscheiden gemeinsam, welche Aufgaben notwendig sind um das Ziel
 - Standards
 
 Damit das Team effektiv zusammenarbeiten kann, ist es notwendig, dass sich das Team auf gemeinsame Standards/Normen einigt.
+
+[weiter ->](07_scrum-master-stakeholder.md)
