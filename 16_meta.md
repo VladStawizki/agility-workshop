@@ -5,6 +5,7 @@
 - Ausreden lassen und aktiv zuhören
 - "Wir" - Gefühl entwickeln
 - Annahme: Jeder gibt sein Bestes
+- Nein sagen
 - Feedback geben und nach Feedback fragen
 - Danke sagen
 

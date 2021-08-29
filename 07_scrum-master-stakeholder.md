@@ -15,6 +15,8 @@ Steakholder Aufgaben:
 - An Reviews Teilnehmen
 - Feedback geben
 
+## Scrum Team komplett
+
 ![scrum roles](https://www.mendix.com/wp-content/uploads/scrum-team-de.png)
 
 Übung: Jeder beschreibt seine Rolle auf einem Post-it

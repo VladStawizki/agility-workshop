@@ -7,4 +7,6 @@
 
 - Outcome: bessere Stimmung, besser Software Qualität, bessere Produktivität
 
+Aufgabe: Kalender anschauen
+
 [weiter->](16_meta.md)
