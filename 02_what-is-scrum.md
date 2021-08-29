@@ -6,7 +6,7 @@
 
 - Schlankes Framework
 
-- Empirischer Prozess
+- Empirischer Prozess (empirisch bedeutet „aus der Erfahrung“)
 
 - Schlankes Management
 

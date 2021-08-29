@@ -17,4 +17,6 @@ Steakholder Aufgaben:
 
 ![scrum roles](https://www.mendix.com/wp-content/uploads/scrum-team-de.png)
 
+Übung: Jeder beschreibt seine Rolle auf einem Post-it
+
 [weiter ->](07-1_coffee.md)

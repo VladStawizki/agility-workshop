@@ -2,6 +2,8 @@
 
 Product Backlog ist eine ultimative To-Do Liste
 
+![product backlog](https://letsscrumit.com/static/e829730ff29ba102a41c720acf80e49e/c83ae/product_bclg.png)
+
 - Product Backlog ist das wichtigste Instrument vom PO
 - Product Backlog ist ein lebendes Dokument
 

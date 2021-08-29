@@ -1,6 +1,6 @@
 # Gute Anforderungen
 
-Anforderungen sind keine Arbeitsanweisungen sollten ein Spielraum für die Umsetzung und diskussion lassen.
+Anforderungen sind keine Arbeitsanweisungen und sollten ein Spielraum für die Umsetzung und diskussion lassen.
 
 Good:
 
