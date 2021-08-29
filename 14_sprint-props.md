@@ -25,3 +25,5 @@ Bad Practice:
  - Zeit ist fix
  - Team ist fix
  - Volumen / Aufgaben sind fix
+
+[weiter ->](15_sprint-sequence.md)

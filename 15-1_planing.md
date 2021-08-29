@@ -11,3 +11,5 @@ PO bereitet und priorisiert das Produkt Backlog
 - Teamkapazität indetifizieren
 - Sprint Backlog erstellen
 - Teamcommitment
+
+[weiter ->](15-2_sprint-backlog.md)
